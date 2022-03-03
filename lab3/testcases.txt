@@ -1,0 +1,4 @@
+Case 1: mala # y #Reverse ( mala) 
+Case 2: ma#la#y#Reverse ( mala) 
+Case 3: Mala#Y*Reverse(mala) 
+Case 4: Reverse(Reverse(mala))
